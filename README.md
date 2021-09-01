@@ -1,4 +1,4 @@
-## GEOG594-AmirReza
+## GEOG594-Amir-Reza-Sadeghi
 
 1. *First name:* __Amir Reza__ 
 
